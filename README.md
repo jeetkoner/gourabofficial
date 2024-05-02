@@ -6,7 +6,7 @@
 
 <div align="center" style="margin-top: 20px;">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=BuddhadebKoner&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=gourabofficial&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gourabofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
