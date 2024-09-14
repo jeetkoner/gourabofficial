@@ -4,13 +4,17 @@
 </h1>
 
 
+
 <div align="center" style="margin-top: 20px;">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=gourabofficial&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gourabofficial&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+    <img src="https://github-readme-stats.vercel.app/api?username=gourabofficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gourabofficial&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=10&theme=react&hide_border=false&hide_progress=true" height="150" alt="languages graph" height="150" alt="stats graph"/>
 </div>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,javascript,c,cpp,python,linux,git" />
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=gourabofficial&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=gourabofficial&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+    </a>
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,python,nodejs,mysql,react,npm,figma,linux,git" />
 </div>
